@@ -5,7 +5,7 @@ http://www.erlang.org/doc/man/shell.html#prompt_func-1.
 
 I've taken advantage of this to display the current Pid in the prompt.
 
-On top of that: colours!
+On top of that: colours! **Which are broken; see [#1](https://github.com/rlipscombe/rl_erl_prompt/issues/1)**
 
 ## Installation
 
